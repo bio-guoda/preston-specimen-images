@@ -1,6 +1,8 @@
 # preston-specimen-images
 Keeps a longitudinal record of specimen image URLs as registered via networks like GBIF, OBIS, and iDigBio
 
+:warning: Experimental Biodiversity Data processor
+
 to extract all StillImages from tracked data, first clone https://deeplinker.bio . using
 
 $ preston clone https://deeplinker.bio
