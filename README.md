@@ -1,3 +1,5 @@
+:warning: deprecated . Please refer to https://github.com/jhpoelen/specimen-image-index and https://github.com/bio-guoda/preston/issues/168 instead.
+
 # preston-specimen-images
 Keeps a longitudinal record of specimen image URLs as registered via networks like GBIF, OBIS, and iDigBio
 
